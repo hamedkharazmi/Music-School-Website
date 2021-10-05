@@ -1,0 +1,200 @@
+#slider {
+  position: relative;
+  overflow: hidden;
+  margin: 20px auto 0 auto;
+  border-radius: 4px;
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  list-style: none;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 500px;
+  height: 300px;
+  background: #ccc;
+  text-align: center;
+  line-height: 300px;
+}
+
+a.control_prev, a.control_next {
+  position: absolute;
+  top: 40%;
+  z-index: 999;
+  display: block;
+  padding: 4% 3%;
+  width: auto;
+  height: auto;
+  background: #2a2a2a;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+a.control_prev:hover, a.control_next:hover {
+  opacity: 1;
+  -webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+  border-radius: 0 2px 2px 0;
+}
+
+a.control_next {
+  right: 0;
+  border-radius: 2px 0 0 2px;
+}
+
+.slider_option {
+  position: relative;
+  margin: 10px auto;
+  width: 160px;
+  font-size: 18px;
+}
+
+.container-fluid {
+	background-color: #454545;
+	padding: 25px;
+}
+
+.container-fluid .row .col-sm-4{
+	margin: 40px 0px;
+}
+
+.container-fluid .row .col-sm-4 .link{
+	text-align: rtl;
+	color: white;
+	text-decoration: none;
+	overflow: hidden;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 600;
+	font-family: Liberation Serif;
+}
+
+.container-fluid .row .col-sm-4 .link:hover{
+	text-align: rtl;
+	color: #30f9d5;
+	transition: .5s;
+}
+
+.container-fluid .row .col-sm-4 {
+	margin: 15px 0px;
+	text-align: rtl;
+}
+
+.fa-map-marker{
+	text-align: rtl;
+	color: red;
+	font-size: 40px;
+}
+
+.container-fluid .row .col-sm-4 .icon{
+	text-align: rtl;
+	display: inline-block;
+	padding: 5px;
+}
+
+.container-fluid .row .col-sm-4 .text{
+	text-align: rtl;
+	display: inline-block;
+}
+
+.container-fluid .row .col-sm-4 .text .up{
+	text-align: rtl;
+	display: block;
+	color: white;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container-fluid .row .col-sm-4 .text .down{
+	text-align: rtl;
+	display: block;
+	color: white;
+	font-size: 18px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.fa-phone{
+	text-align: rtl;
+	font-size: 30px;
+	color: #07e307;
+}
+
+.container-fluid .row .col-sm-4 .icon{
+	text-align: rtl;
+	display: inline-block;
+	padding: 5px;
+}
+
+.container-fluid .row .col-sm-4 .text{
+	text-align: rtl;
+	display: inline-block;
+	color: white;
+	font-size: 18px;
+}
+
+.fa-envelope{
+	text-align: rtl;
+	font-size: 30px;
+	color: white;
+}
+
+.container-fluid .row .col-sm-4 .icon{
+	text-align: rtl;
+	display: inline-block;
+	padding: 5px;
+}
+
+.container-fluid .row .col-sm-4 .email{
+	text-align: rtl;
+	display: inline-block;
+	color: #23a2ff;
+	font-size: 18px;
+}
+
+.container-fluid .row .col-sm-4 .about{
+	text-align: rtl;
+	color: white;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+.container-fluid .row .col-sm-4 .explain{
+	text-align: rtl;
+	color: white;
+	margin: 0px;
+
+}
+
+.color{
+	margin: 10px 0px;
+	width: 100%;
+	display: block;
+	height: 10px;
+	background-image: linear-gradient(to right ,#454545, #dadada, #454545);
+}
+
+@media (max-width: 1000px){
+	.container-fluid .row .col-sm-4{
+		width: 80%;
+		margin: 60px auto;
+		text-align: center;
+		float: none;
+	}
+}
