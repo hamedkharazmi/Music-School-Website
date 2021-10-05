@@ -3,7 +3,7 @@
 **some sections of website:**
 
 <p float="left">
-  <br/><br/><br/>Log-in Page:
+  <br/><br/>Log-in Page:
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/1- Music-School-Log-in.png" width="98%" />
   <br/><br/><br/>Register Page:
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/2- Music-School-Register.png" width="98%" /> 
