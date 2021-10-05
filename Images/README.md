@@ -1,1 +1,3 @@
-Music-School-Website
+## Music-School-Website
+
+**some sections of website**
