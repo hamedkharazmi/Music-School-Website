@@ -13,17 +13,17 @@
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/4- Music-School-User-Menu.png" width="98%" />
   <br/><br/><br/> Main Page (admins):
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/5- Music-School-ADMIN.png" width="98%" />
-  <br/><br/><br/> Admin access options:
+  <br/><br/><br/> Admin access options:<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/6- Music-School-ADMIN-Options.png" width="50%" />
-  <br/><br/><br/> Admin access options (SEARCH):
+  <br/><br/><br/> Admin access options (SEARCH):<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/Music-School-ADMIN-Options-SEARCH.png" width="50%" />
-  <br/><br/><br/> Admin access options (ADD):
+  <br/><br/><br/> Admin access options (ADD):<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/7- Music-School-ADMIN-Options-ADD.png" width="50%" />
-  <br/><br/><br/> Admin access options (DELETE):
+  <br/><br/><br/> Admin access options (DELETE):<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/9- Music-School-ADMIN-Options-DELETE.png" width="50%" />
-  <br/><br/><br/> Admin access options (REPLACE):
+  <br/><br/><br/> Admin access options (REPLACE):<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/Music-School-ADMIN-Options-REPLACE.png" width="50%" />
-  <br/><br/><br/> Admin access options (BackUp and ReStore DataBase):
+  <br/><br/><br/> Admin access options (BackUp and ReStore DataBase):<br/>
   <img src="https://github.com/hamedkharazmi/Music-School-Website/blob/master/Images/8- Music-School-ADMIN-Options-BackUp&ReStore.png" width="50%" />
   <br/><br/><br/>
 </p>
